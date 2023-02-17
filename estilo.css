@@ -1,0 +1,43 @@
+header{
+    background-color: rgba(165, 42, 42, 0.838);
+    height: 80px;
+    width:auto;
+    color: white;
+    text-align: center;
+    font-size: 55px;
+    
+    
+}
+footer{
+    background-color:rgba(165, 42, 42, 0.838);
+    height:80px;
+    width:auto;
+    text-align: center;
+
+}
+.rigthsidebar{
+    background-color: rgba(165, 42, 42, 0.655);
+    height: 400px;
+    width: 280px;
+    float: right;
+    text-align: center;
+
+}
+.leftsidebar{
+    background-color: rgba(165, 42, 42, 0.655);
+    height: 400px;
+    width: 280px;
+    font-size: x-large;
+    text-align:left ;
+    
+}
+.midlebody{
+    background-color: rgba(153, 73, 153, 0.489);
+    height: 400px;
+    width: 664px;
+    margin-left: 300px;
+    margin-bottom:-400px ;
+    text-align:center;
+    font-size: 12px;
+    
+}
